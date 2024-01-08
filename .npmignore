@@ -1,8 +1,10 @@
 .git
 .idea
+.changeset
 tsconfig.json
 tests
 src
 pnpm-lock.yaml
 node_modules
 jest.config.js
+renovate.json
